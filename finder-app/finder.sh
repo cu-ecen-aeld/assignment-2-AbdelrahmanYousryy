@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# author : Abdelrahman
 if  [ $# -ne 2 ];then
 echo "no arguments specified"
 exit 1
